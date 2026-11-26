@@ -1,0 +1,14 @@
+{
+  "id": "raher458/rh-neural-dj-playground",
+  "title": "RH Neural DJ Playground",
+  "code_file": "main.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}
